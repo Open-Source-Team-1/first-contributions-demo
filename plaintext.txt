@@ -1,0 +1,7 @@
+Advanced Sandbox: first-contributions
+ │
+ ├── 1. The Stash Drill (Pausing mid-edit)
+ ├── 2. The Squash Drill (git rebase -i)
+ ├── 3. The Cherry-Pick Drill (Moving specific commits)
+ └── 4. The Conflict Drill (Intentional sabotage & repair)
+
